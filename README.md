@@ -6,4 +6,4 @@
 - NEW_RELIC_CONFIG_FILE=newrelic.ini newrelic-admin run-program uvicorn api:app --reload
 
 ## Routes
- - Docs can be found at http://http://127.0.0.1:8000/docs
+ - Docs can be found at http://127.0.0.1:8000/docs
